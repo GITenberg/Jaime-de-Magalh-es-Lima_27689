@@ -1,0 +1,28 @@
+_repo: Jaime-de-Magalh-es-Lima_27689
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Agostinho, José
+    alias: Agostinho, Jose
+    birthdate: 1866
+    deathdate: 1938
+    gutenberg_agent_id: '32848'
+    url: http://www.gutenberg.org/2009/agents/32848
+description: ''
+gutenberg_issued: '2009-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27689'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Lima, Jaime de Magalhães, 1859-1936'
+- !lcc 'PQ'
+title: Jaime de Magalhães Lima
+url: http://www.gutenberg.org/ebooks/27689
